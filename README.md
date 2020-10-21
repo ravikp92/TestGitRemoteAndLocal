@@ -43,3 +43,57 @@ Commands for all
   595  git push
   596  git log --oneline
   597  history 50
+
+591  git checkout main
+  592  git merge newbranchfromlocal
+  593  git status
+  594  git log --oneline
+  595  git push
+  596  git log --oneline
+  597  history 50
+  598  notepad README.md
+  599  git status
+  600  git commit -am "Read me added with commands exectuted"
+  601  git push
+  602  ls
+  603  cat file.txt
+  604  notepad file.txt
+  605  git status
+  606  git pull origin/main
+  607  git pull origin
+  608  notepad file.txt
+  609  git pull origin
+  610  notepad file.txt
+  611  git pull origin
+  612  git status
+  613  'git commit -am "file txt has been updated locally"
+git commit -am "file txt has been updated locally"
+q
+  614  git commit -am "file txt has been updated locally"
+  615  git status
+  616  git pull
+  617  notepad file.txt
+  618  git pull
+  619  git merge
+  620  git status
+  621  git add file.txt
+  622  git commit -a -m "merged file txt"
+  623  git pull
+  624  cat file.txt
+  625  git push
+  626  git log --oneline
+  627  git checkout newbranchfromlocal
+  628  git merge main
+  629  git status
+  630  git log --oneline
+  631  git checkout master
+  632  git checkout main
+  633  git log --oneline
+  634  git push
+  635  git checkout newbranchfromlocal
+  636  git push origin/newbranchfromlocal
+  637  git push
+  638  git checkout main
+  639  git log --oneline --decorate --graph
+  640  history 50
+
